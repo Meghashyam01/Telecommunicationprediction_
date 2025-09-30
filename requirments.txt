@@ -6,7 +6,6 @@ matplotlib
 seaborn
 xgboost
 plotly
-matplotlib
-seaborn
+
 
 
